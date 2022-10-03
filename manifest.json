@@ -1,0 +1,10 @@
+{
+	"domain": "waterinsights",
+	"name": "WaterNSW WaterInsights",
+	"version": "0.0.1",
+	"documentation": "",
+	"dependencies": [],
+	"codeowners": [],
+	"requirements": [],
+	"iot_class": "cloud_polling"
+}
