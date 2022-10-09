@@ -1,0 +1,7 @@
+{
+	"name": "WaterNSW WaterInsights",
+	"content_in_root": true,
+	"render_readme": true,
+	"country": ["AU"],
+	"homeassistant": "2022.9"
+}
