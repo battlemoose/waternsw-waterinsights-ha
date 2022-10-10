@@ -1,7 +1,7 @@
 
 # WaterNSW WaterInsights for Home Assistant
 
-![Dam level sensor dashboard example](https://github.com/battlemoose/waternsw-waterinsights-ha/blob/main/assets/dashboard-level-example.png)
+![Dam level sensor dashboard example](https://raw.githubusercontent.com/battlemoose/waternsw-waterinsights-ha/main/assets/dashboard-level-example.png)
 
 This [Home Assistant](https://www.home-assistant.io/) component integrates NSW dam level and capacity data from the [WaterNSW WaterInsights API][1] as [sensors](https://www.home-assistant.io/integrations/sensor/) in the Home Assistant platform.
 

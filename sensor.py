@@ -1,4 +1,7 @@
 """Support for WaterNSW WaterInsights (AU) dam level queries."""
+
+# TODO: Add configuration via UI
+
 import logging
 from decimal import Decimal
 from datetime import timedelta
