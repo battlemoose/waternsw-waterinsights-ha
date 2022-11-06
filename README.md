@@ -10,9 +10,8 @@ This [Home Assistant](https://www.home-assistant.io/) component integrates NSW d
 The simplest method to install this integration is using [HACS](https://hacs.xyz/).
 
 Manual installation can also be performed by:
-
- 1. Creating a new directory named `waterinsights` in the `custom_components` directory of your Home Assistant configuration
- 1. Copying the contents of this repository into the new `waterinsights` directory
+ 
+ 1. Copying the `custom_components/waterinsights` directory of this repository into the `custom_components` directory of your Home Assistant configuration
  1. Restarting Home Assistant
 
 ## Usage
